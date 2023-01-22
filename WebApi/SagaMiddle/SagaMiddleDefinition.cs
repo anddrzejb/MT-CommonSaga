@@ -22,11 +22,13 @@ public class SagaMiddleDefinition: MassTransitStateMachine<SagaMiddleState>
         
         During(StateMiddle1,
             When(StepMiddle2)
+                .Activity(c => c.OfType<SagaRedirectActivity>())
                 .TransitionTo(StateMiddle2)
                 .Then(ctx =>
                 {
                     Console.WriteLine($"(SagaMiddle): Transitioned to {ctx.Saga.CurrentState} and finalizing. Going back to {ctx.Saga.CallingSagaName}");
                 })
+
                 // .Publish(context => context.Saga.EventToPublish
                 //     // {
                 //     //     Type evToCreate = context.Saga.EventType;

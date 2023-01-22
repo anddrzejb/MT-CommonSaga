@@ -14,10 +14,13 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0b5567882521e02aa3d40a7bce81b7235ccac4db588866e3498e614c3bc/CastHelpers.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1096a77251f1a285257fb7fc2e47eab9654026d46953581b3d14a3f9aa773c19/MvcDiagnostics.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4e2a32f8230974225cb6cf9e213a7d24258d8e7db889a46be8f181a986a92d1/ThenExtensions.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/575c31ecc35a636b6f962cb71d53992552941a18982aae1c8e6c16305cc3761b/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/6ca823011d086b74211bb36e7c01ce086eb8b9f7e7eb4af5718691f5b0155d/IRegistrationConfigurator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/abbe38590aef36d844d558ef6a9a584c505bd62e2e3e677ab8150e19ff9d5/SagaConsumeContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/c5d0892e96f92bbc034d4b1d6e3437492fbae1f3192cfcefe1efb21813988b/ActivatorUtilities.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/e0bea4e5f03899efe75dc4dcf582f230702687c5ac6269866345ce4aae5d8a36/ServiceProviderServiceExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/f1bb978b89e9dfbe70ec4ec5f835364e4b3d5e43a5455a4178972f73af8efa/EventActivityBinder.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/fec9582cc2dbf41ed0dae08c31922f266ea0fcdfed152bfd2eca8623cd54/MassTransitStateMachine.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -78,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674289210430</updated>
       <workItem from="1674289221385" duration="14029000" />
-      <workItem from="1674392188741" duration="308000" />
+      <workItem from="1674392188741" duration="2085000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1674392380427</created>
